@@ -1,5 +1,7 @@
 # Week 1 - initial Discovery
 ## 1. Facts
+### - equipment has and can be double booked
+
 ## 2. Assumptions
 ## 3. Unknowns
 ## 4. Stakeholders
