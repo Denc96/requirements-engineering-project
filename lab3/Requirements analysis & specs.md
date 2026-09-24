@@ -36,3 +36,8 @@
 ## why -  so the technician can know what equipment is available before the booking takes place.
 ## how will we know - We can verify it when the system is able to show the technician that the piece of equipment is available before the booking is confirmed.
 
+## fr-01:The system shall allow an authorized user to view equipment availability for a selected date.
+## fr-02:The system shall allow an authorized user to cancel bookings.
+## fr-03:The system shall allow an user to make a booking on available equipment.
+
+
